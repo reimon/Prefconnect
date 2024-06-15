@@ -110,16 +110,6 @@ git clone https://github.com/reimon/prefconnect
 cd prefconnect
 ```
 
-```sh
-yarn install
-```
-
-Instalar Dependências
-
-```sh
-yarn install
-```
-
 Configurar Variáveis de Ambiente
 Crie um arquivo .env na raiz do projeto com as variáveis necessárias (exemplo: API keys, configurações de banco de dados).
 
@@ -128,7 +118,8 @@ Rodar o Projeto
 Backend:
 
 ```sh
-yarn workspace backend start
+npm install
+npm run dev
 ```
 
 Web:
