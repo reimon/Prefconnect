@@ -131,7 +131,8 @@ yarn workspace web start
 Mobile:
 
 ```sh
-npx expo start
+npm install
+npm start
 ```
 
 Contribuição
