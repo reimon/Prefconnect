@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Cultura",
+    "phone": "1234-5678",
+    "email": "cultura@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua da Cultura, 123"
+  },
+  {
+    "name": "Educação",
+    "phone": "1234-5679",
+    "email": "educacao@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua da Educação, 123"
+  },
+  {
+    "name": "Esporte e Lazer",
+    "phone": "1234-5680",
+    "email": "esporte@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua do Esporte, 123"
+  },
+  {
+    "name": "Meio Ambiente",
+    "phone": "1234-5681",
+    "email": "meioambiente@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua do Meio Ambiente, 123"
+  },
+  {
+    "name": "Planejamento Urbano",
+    "phone": "1234-5682",
+    "email": "planejamento@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua do Planejamento, 123"
+  },
+  {
+    "name": "Saneamento",
+    "phone": "1234-5684",
+    "email": "saneamento@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua do Saneamento, 123"
+  },
+  {
+    "name": "Serviços Urbanos",
+    "phone": "1234-5685",
+    "email": "servicosurbanos@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua dos Serviços Urbanos, 123"
+  },
+  {
+    "name": "Social",
+    "phone": "1234-5686",
+    "email": "social@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua Social, 123"
+  },
+  {
+    "name": "IPTU",
+    "phone": "1234-5690",
+    "email": "iptu@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua do IPTU, 123"
+  },
+  {
+    "name": "Iluminação",
+    "phone": "1234-5691",
+    "email": "iluminacao@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua da Iluminação, 123"
+  },
+  {
+    "name": "Coleta de Lixo",
+    "phone": "1234-5692",
+    "email": "coletadelixo@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua da Coleta de Lixo, 123"
+  },
+  {
+    "name": "Outros Tributos",
+    "phone": "1234-5693",
+    "email": "outrostributos@prefeitura.com",
+    "hours": "8:00 - 17:00",
+    "address": "Rua dos Outros Tributos, 123"
+  }
+]

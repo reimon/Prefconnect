@@ -1,0 +1,49 @@
+{
+  "coduser": "1",
+  "closeFriends": [
+    {
+      "id": "1",
+      "imageUrl": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/12/elon-musk-vw1229.jpg?quality=90&strip=all&w=288&h=216&sig=UOXYZfdoyYEC1pBJvbGv7g"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://media.licdn.com/dms/image/D4D03AQEzE0m5i3BS6w/profile-displayphoto-shrink_800_800/0/1684698193528?e=1723075200&v=beta&t=nD3G5iWl4f4ZNGdPa-e5cey-UcARicPTe8__qjr2NqA"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://media.licdn.com/dms/image/C4D03AQEFJ-SScnlihg/profile-displayphoto-shrink_800_800/0/1576884582281?e=1723075200&v=beta&t=LFMGHdtbzbhx9eOcZrWZHkF0rIBIEYWB0scP9UmWmVE"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://media.licdn.com/dms/image/D4E03AQEYeOZBysj4zw/profile-displayphoto-shrink_800_800/0/1704474086875?e=1723075200&v=beta&t=Fi0kHZbEGWoU8waE4ycL-XaOPUuZNtlLILRhDK_iYdk"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://media.licdn.com/dms/image/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_800_800/0/1579726625483?e=1723075200&v=beta&t=JGiPswUaG4LdzuZA2vKsY9rJHssaTnj8d-VvwlwdYf4"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhj1_KMi7Ay6zlmhZixxjL4r7Pp_zwe0zKD6rFNKQArT4iLcYWdy1Ff4nVzKa48qfBnEg&usqp=CAU"
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://yt3.googleusercontent.com/IcNEeoSa38od74xAuAurWyOgOLUgymk-rLdJO5pJUesyHq8yYehvV4Cc4P2HujdbgEmzfuoNZQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/05/20220512-ovicio-top-gun-maverick-tom-cruise.jpg?resize=555%2C555&ssl=1"
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/05/jim-caviezel-como-jesus-em-a-paixao-de-cristo-2004-original.jpeg?crop=1&resize=1212,909"
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://img.freepik.com/premium-photo/fat-cat-office-desk-with-computer-generative-ai_431161-897.jpg?w=360"
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://blog-static.petlove.com.br/wp-content/uploads/2024/05/10144007/cachorro-obeso-Petlove.jpg"
+    }
+  ]
+}

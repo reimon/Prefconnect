@@ -1,0 +1,20 @@
+[
+  {
+    latitude: 37.7749,
+    longitude: -122.4194,
+    latitudeDelta: 0.01,
+    longitudeDelta: 0.01,
+    name: "San Francisco City Center",
+    imageUrl: "https://s2-g1.glbimg.com/2jcOqoc61ICrnovZE6YWmZqm4YI=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/P/3C4jrvSgyygbkp2wDFsQ/whatsapp-image-2020-12-08-at-16.49.33.jpeg",
+    description: "Árvore caída",
+  },
+  {
+    latitude: 37.8077,
+    longitude: -122.475,
+    latitudeDelta: 0.01,
+    longitudeDelta: 0.01,
+    name: "Golden Gate Bridge",
+    imageUrl: "https://www.diariozonanorte.com.br/wp-content/uploads/2023/11/arvore.jpg",
+    description: "Árvore caída",
+  },
+];

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 1000",
+    "latitude": -23.564224,
+    "longitude": -46.653156,
+    "imageUrl": "https://s2-g1.glbimg.com/2jcOqoc61ICrnovZE6YWmZqm4YI=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/P/3C4jrvSgyygbkp2wDFsQ/whatsapp-image-2020-12-08-at-16.49.33.jpeg",
+    "eventType": "Árvore caída"
+  },
+  {
+    "id": "2",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 300",
+    "latitude": -23.56321,
+    "longitude": -46.654289,
+    "imageUrl": "https://www.diariozonanorte.com.br/wp-content/uploads/2023/11/arvore.jpg",
+    "eventType": "Árvore caída"
+  },
+  {
+    "id": "3",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 400",
+    "latitude": -23.562928,
+    "longitude": -46.653232,
+    "imageUrl": "https://g1.globo.com/Noticias/SaoPaulo/foto/0,,20589758-FMM,00.jpg",
+    "eventType": "Buraco na pista"
+  },
+  {
+    "id": "4",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 450",
+    "latitude": -23.5623,
+    "longitude": -46.6548,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8srM8BhV8PQpidao9fBZZRJV3PhUvLy1QAw&s",
+    "eventType": "Acidente Automotivo"
+  },
+  {
+    "id": "5",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 30",
+    "latitude": -23.561231,
+    "longitude": -46.657528,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSllm0dkemuN5V-ERywwVx41qO_g4kac5cng&s",
+    "eventType": "Acidente Automotivo"
+  },
+  {
+    "id": "6",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 400",
+    "latitude": -23.563491,
+    "longitude": -46.652611,
+    "imageUrl": "https://www1.folha.uol.com.br/fsp/images/r0606201101.jpg",
+    "eventType": "Esgoto"
+  },
+  {
+    "id": "7",
+    "userid": 1,
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 40",
+    "latitude": -23.564573,
+    "longitude": -46.653265,
+    "imageUrl": "https://portal.londrina.pr.gov.br/images/Defesa_Civil_Cilson/DESASTRES_NATURAIS/alagamento.jpg",
+    "eventType": "Alagamento"
+  },
+  {
+    "id": "8",
+    "user": "Reimon",
+    "userid": 1,
+    "location": "São Paulo, Av. Paulista, 2400",
+    "latitude": -23.559616,
+    "longitude": -46.658919,
+    "imageUrl": "https://conteudo.imguol.com.br/c/noticias/e7/2022/03/15/chuva-causou-alagamentos-na-regiao-central-de-sao-paulo-1647373133985_v2_450x337.jpg",
+    "eventType": "Alagamento"
+  },
+  {
+    "id": "9",
+    "user": "Reimon",
+    "location": "São Paulo, Av. Paulista, 1400",
+    "latitude": -23.558894,
+    "longitude": -46.660365,
+    "imageUrl": "https://s2-g1.glbimg.com/xexlIlDPCm4llx9tfMHGua_jscM=/0x0:1600x1200/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/C/3wpzd3SuCvfGJEtIvtWA/whatsapp-image-2023-02-17-at-16.05.52.jpeg",
+    "eventType": "Alagamento"
+  }
+]

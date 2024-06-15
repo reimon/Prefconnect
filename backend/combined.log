@@ -1,0 +1,316 @@
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:23:44"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:23:55"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:23:59"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:24:15"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:24:26"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:24:29"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:25:35"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:25:40"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:26:01"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:26:03"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:26:37"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:27:03"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:27:05"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:28:43"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:28:47"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:28:47"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:29:17"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:29:17"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:30:47"}
+{"level":"error","message":"No file uploaded","service":"user-service","timestamp":"2024-06-09 18:30:47"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:31:16"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:31:16"}
+{"level":"info","message":"File uploaded: logo.png","service":"user-service","timestamp":"2024-06-09 18:31:16"}
+{"level":"info","message":"Moving file from temp/9e5451f3d91813c0ccd1604b7af8f5dc to /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:31:16"}
+{"level":"info","message":"File uploaded successfully: /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:31:16"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:32:03"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:32:03"}
+{"level":"info","message":"File uploaded: logo.png","service":"user-service","timestamp":"2024-06-09 18:32:03"}
+{"level":"info","message":"Moving file from temp/ecca9d8537c2cbd395e00ee4b378bdb7 to /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:32:03"}
+{"level":"info","message":"File uploaded successfully: /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:32:03"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:32:42"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:32:55"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:33:08"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:33:08"}
+{"level":"info","message":"File uploaded: logo.png","service":"user-service","timestamp":"2024-06-09 18:33:08"}
+{"level":"info","message":"Moving file from temp/1a42bcab233612c35ac83b1844676950 to /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:33:08"}
+{"level":"info","message":"File uploaded successfully: /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:33:08"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:35:30"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:36:35"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:37:35"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:37:42"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:37:59"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:38:59"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:39:17"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:40:07"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:40:25"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:40:38"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:40:41"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:54:40"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:54:56"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:55:01"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:55:20"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:55:20"}
+{"level":"info","message":"Files uploaded: logo.png","service":"user-service","timestamp":"2024-06-09 18:55:20"}
+{"level":"info","message":"Moving file from temp/97ba349d9e0cf546022efe08f089f0f2 to /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:55:20"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 18:55:20"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"File upload attempt: logo - cópia.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"File upload attempt: logo - cópia 3.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Files uploaded: logo.png, logo - cópia.png, logo - cópia 3.png, logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Moving file from temp/4eb2658a73c11a77c11ab7ed2beb38b4 to /Users/remon/Projetos/my-backend/src/uploads/logo.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Moving file from temp/ce5ccac62268793069f7df9ccff205f2 to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Moving file from temp/fbb0c5eca0a586f2fd2b5cef26cb8203 to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia 3.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"Moving file from temp/c11077059c978cc75604b893c26ac0be to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 18:55:33"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:56:49"}
+{"level":"info","message":"File upload attempt: logo - cópia.png","service":"user-service","timestamp":"2024-06-09 18:56:49"}
+{"level":"info","message":"File upload attempt: logo - cópia 3.png","service":"user-service","timestamp":"2024-06-09 18:56:49"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:56:49"}
+{"level":"error","message":"MulterError: Unexpected field\n    at wrappedFileFilter (/Users/remon/Projetos/my-backend/node_modules/multer/index.js:40:19)\n    at Multipart.<anonymous> (/Users/remon/Projetos/my-backend/node_modules/multer/lib/make-middleware.js:107:7)\n    at Multipart.emit (node:events:520:28)\n    at Multipart.emit (node:domain:488:12)\n    at HeaderParser.cb (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:358:14)\n    at HeaderParser.push (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:394:37)\n    at feed (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:248:10)\n    at SBMH.push (/Users/remon/Projetos/my-backend/node_modules/streamsearch/lib/sbmh.js:104:16)\n    at Multipart._write (/Users/remon/Projetos/my-backend/node_modules/busboy/lib/types/multipart.js:567:19)","service":"user-service","timestamp":"2024-06-09 18:56:49"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:58:50"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 18:59:04"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:59:20"}
+{"level":"info","message":"File upload attempt: logo - cópia.png","service":"user-service","timestamp":"2024-06-09 18:59:20"}
+{"level":"info","message":"File upload attempt: logo - cópia 3.png","service":"user-service","timestamp":"2024-06-09 18:59:20"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:59:20"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 18:59:20"}
+{"level":"info","message":"File upload attempt: logo.png","service":"user-service","timestamp":"2024-06-09 18:59:31"}
+{"level":"info","message":"File upload attempt: logo - cópia.png","service":"user-service","timestamp":"2024-06-09 18:59:31"}
+{"level":"info","message":"File upload attempt: logo - cópia 3.png","service":"user-service","timestamp":"2024-06-09 18:59:31"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 18:59:31"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 18:59:31"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"File upload attempt: logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"File upload attempt: logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Moving file from temp/dc045a4871e78d2daa18de12289219cd to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Moving file from temp/f01af869bb618e08ff429fcf9d8957a6 to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia 2.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Moving file from temp/f1ca197ae909d37cb8964c57cbf0ed64 to /Users/remon/Projetos/my-backend/src/uploads/logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:00:07"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 19:03:14"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 19:03:54"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"Moving file from temp/e4cc2238b15a898d00ffbe808cd86f7c to /Users/remon/Projetos/my-backend/src/uploads/11a3f7f8-b6f6-4704-b0e7-5f6aa72ffabd.png","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"Moving file from temp/d578116ee26ebc0ef88b35ff356397d6 to /Users/remon/Projetos/my-backend/src/uploads/52b452c5-e8f0-4b55-aea2-65d4ddfd5a1c.png","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"Moving file from temp/84d76da03de9ce6925f5b81bee1232bf to /Users/remon/Projetos/my-backend/src/uploads/8b62b507-0e60-4d90-9d45-7c8995b5ea02.png","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:04:00"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"Moving file from temp/fa985bb1d694a7242886630365de8858 to /Users/remon/Projetos/my-backend/src/uploads/6e6263b0-ef7e-441f-a7c3-a35953859b5e.png","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"Moving file from temp/963350071ff23c87f2ae411aa0ed220e to /Users/remon/Projetos/my-backend/src/uploads/19a1b9e0-faaf-4b14-9e75-f05a74951688.png","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"Moving file from temp/dcb3ee0330a774caab223e8c66328b89 to /Users/remon/Projetos/my-backend/src/uploads/b0eb38d0-0d38-4511-80ed-dcadc9abce87.png","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:04:04"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"Moving file from temp/f36acc411e10ac57d0ac5d93858ee1c3 to /Users/remon/Projetos/my-backend/src/uploads/9d453ab2-c9a7-47eb-b40b-8aee203e749b.png","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"Moving file from temp/4fd4302859f2ee26fd0212e7e2a92f75 to /Users/remon/Projetos/my-backend/src/uploads/ea001d1e-eb7c-4eda-ab3c-fd8717da5b95.png","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"Moving file from temp/54fd44782dc843cf29929d30619c8abe to /Users/remon/Projetos/my-backend/src/uploads/c1a89b76-a0bc-4850-86f7-948d7d169d22.png","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:04:15"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 19:21:44"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:21:53"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:21:53"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: fb1ac78f-ee8d-45ed-b96e-7d99fbce590b.png","service":"user-service","timestamp":"2024-06-09 19:21:53"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: cf8c9964-9a2f-4b1b-9499-6a3783135682.png","service":"user-service","timestamp":"2024-06-09 19:21:53"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: d6cd4079-96c4-4c55-9144-047e6dec4f2c.png","service":"user-service","timestamp":"2024-06-09 19:21:53"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:21:55"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"info","message":"Files uploaded: logo - cópia 2.png, logo - cópia 2.png, logo - cópia 4.png","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 16567bcc-5269-4cb1-a582-399df6e9bae6.png","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 3b883f29-2a35-4875-9de6-73075b90c2c4.png","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 64c3d1ca-5d0a-4a71-95d8-6482e6004a8e.png","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 19:22:56"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:13:11"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:13:27"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:18:27"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:18:35"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:22:01"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:24:16"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:25:01"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:26:01"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:39:26"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:39:37"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:40:22"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:43:16"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 20:47:26"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 20:56:03"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 20:56:06"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 21:38:06"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 21:48:45"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 21:50:19"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 21:54:22"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:00:07"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:00:14"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:00:23"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:00:38"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:04:10"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:17:20"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:21:27"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:22:14"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:22:21"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:22:23"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:22:34"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:22:51"}
+{"level":"error","message":"Too many files uploaded","service":"user-service","timestamp":"2024-06-09 22:23:34"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:28:10"}
+{"level":"info","message":"Files uploaded: logo.png","service":"user-service","timestamp":"2024-06-09 22:28:10"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 1a65c42f-ec92-4608-b93d-34cfabbdbe8d.png","service":"user-service","timestamp":"2024-06-09 22:28:10"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:28:11"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:30:34"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:30:34"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 334cfcfe-995a-4070-97b4-4153b1caee0e.jpeg","service":"user-service","timestamp":"2024-06-09 22:30:34"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:30:34"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: bbddb2b5-7991-443c-b106-2209130945c2.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: c820349b-0752-4440-9f0d-6bb465df7254.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:41"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 3d215e0b-dafd-4f0b-bab2-b525178fef26.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 1cf4fd5e-c91b-42e5-a654-3f0ba72678df.jpeg","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:31:42"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 22:44:26"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 22:44:34"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 22:47:24"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 22:48:09"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-09 22:51:10"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:51:38"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:51:38"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:51:38"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 3812ceac-3532-4888-9d0e-3730f17e9105.jpeg","service":"user-service","timestamp":"2024-06-09 22:51:38"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:51:40"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: c5b20983-d293-4504-9b6b-42e486cc8d4c.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 98cf5287-81c2-47d2-9bb7-58c20bf331d9.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:13"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 21d6e621-51ea-445d-98e8-3fc2fc4f67f9.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: b7db5946-fe83-41f9-95c5-aa20a52eeeb7.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 9a1229b4-4820-459a-927b-2499c7080379.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:43"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: cf2d7a13-e560-4f44-913e-3d3302f4abd1.jpeg","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:52:44"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 616acbed-b05a-4ed6-9ff7-6399e98c19f4.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: fd7df25b-8d86-47f6-b388-8e6a1d62acac.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 2fe0d98d-527f-4be9-b61f-9e5e26ca6677.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: deacdc2d-aa1c-4669-989d-f070a23f7fee.jpeg","service":"user-service","timestamp":"2024-06-09 22:53:31"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:53:32"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 22:58:03"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 22:58:03"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 22:58:03"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 437716a3-3963-49c6-afba-4749f1167627.jpeg","service":"user-service","timestamp":"2024-06-09 22:58:03"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 22:58:06"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:03:34"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:03:34"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:03:34"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 91551bfd-3069-4222-97c3-94662b800bf0.jpeg","service":"user-service","timestamp":"2024-06-09 23:03:34"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:03:35"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:03:35"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:03:35"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:03:35"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 3f9bb0e4-2496-44d3-9e51-af9dc4e99296.jpeg","service":"user-service","timestamp":"2024-06-09 23:03:35"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:03:36"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:09:43"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:09:43"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:09:43"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 15219930-d3e8-4feb-8488-50b07179f414.jpeg","service":"user-service","timestamp":"2024-06-09 23:09:43"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:09:44"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:09:44"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:09:44"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: b8e7a873-ad82-4ecc-a131-0a0856a5cf43.jpeg","service":"user-service","timestamp":"2024-06-09 23:09:44"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:09:44"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:09:45"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:16:45"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:16:45"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:16:45"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 0773bf0f-0d26-440a-8f4e-1a0b32a7b79a.jpeg","service":"user-service","timestamp":"2024-06-09 23:16:45"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:16:46"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:19:33"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:19:33"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:19:33"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: c9206c5b-3eae-4856-9f81-5cf844a35cc2.jpeg","service":"user-service","timestamp":"2024-06-09 23:19:33"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:19:34"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:43:02"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:43:02"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:02"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 54af6bcb-025b-44a4-bafb-82737952a7b4.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:02"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 1eded48a-8440-4380-b67a-170a782e82b1.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Files uploaded: upload.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: c38c6bbe-e53e-4191-85e6-f6d1b7b709c2.jpeg","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-09 23:43:03"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:36:04"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-14 22:36:35"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-14 22:36:35"}
+{"level":"error","message":"No files uploaded","service":"user-service","timestamp":"2024-06-14 22:36:35"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-14 22:36:40"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-14 22:36:40"}
+{"level":"error","message":"No files uploaded","service":"user-service","timestamp":"2024-06-14 22:36:40"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-14 22:37:38"}
+{"level":"error","message":"File upload attempt with invalid type: text/plain","service":"user-service","timestamp":"2024-06-14 22:37:38"}
+{"level":"error","message":"Invalid file type","service":"user-service","timestamp":"2024-06-14 22:37:38"}
+{"level":"info","message":"POST /api/events/upload","service":"user-service","timestamp":"2024-06-14 22:37:52"}
+{"level":"info","message":"Request received with method: POST and URL: /upload","service":"user-service","timestamp":"2024-06-14 22:37:52"}
+{"level":"info","message":"Files uploaded: logo.png","service":"user-service","timestamp":"2024-06-14 22:37:52"}
+{"level":"info","message":"Uploading file to Azure Blob Storage: 9eeb19ee-dab2-41b0-8079-c718bcf58897.png","service":"user-service","timestamp":"2024-06-14 22:37:52"}
+{"level":"info","message":"All files uploaded successfully","service":"user-service","timestamp":"2024-06-14 22:37:53"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:43:52"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:43:57"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:47:25"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:47:58"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:48:01"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:49:01"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:49:04"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:49:56"}
+{"level":"info","message":"Server is running at http://localhost:3000","service":"user-service","timestamp":"2024-06-14 22:50:23"}
